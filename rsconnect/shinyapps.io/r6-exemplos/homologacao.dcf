@@ -1,0 +1,10 @@
+name: homologacao
+title: homologacao
+username: r6-exemplos
+account: r6-exemplos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10792573
+bundleId: 8045797
+url: https://r6-exemplos.shinyapps.io/homologacao/
+version: 1
