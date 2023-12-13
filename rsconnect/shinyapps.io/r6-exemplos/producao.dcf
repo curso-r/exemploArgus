@@ -1,0 +1,10 @@
+name: producao
+title: producao
+username: r6-exemplos
+account: r6-exemplos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10792591
+bundleId: 8045815
+url: https://r6-exemplos.shinyapps.io/producao/
+version: 1
