@@ -10,7 +10,7 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # Your application UI logic
     fluidPage(
-      h1(stringr::str_glue("Dashboard de análise de dados históricos - v2. Valor de pi: {pi}"))
+      h1(stringr::str_glue("Dashboard de análise de dados históricos - v2. Dia de hoje: {lubridate::today()}"))
     )
   )
 }
