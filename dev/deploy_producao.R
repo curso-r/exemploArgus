@@ -1,7 +1,7 @@
 # Deploy to Posit Connect or ShinyApps.io
 # In command line.
 rsconnect::deployApp(
-  appName = "producao",
+  appName = "producao2",
   appTitle = "producao",
   appFiles = c(
     # Add any additional files unique to your app here.

@@ -4,5 +4,5 @@
 .httr-oauth
 .DS_Store
 .quarto
-dev/deploy_producao.R
+deploy_producao.R
 rsconnect/

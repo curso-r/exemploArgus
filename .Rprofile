@@ -1,2 +1,1 @@
 source("renv/activate.R")
-exemploArgus::run_app()
